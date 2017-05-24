@@ -1,6 +1,6 @@
 # Telephone-numbers
 
-02 -  Java - Telephone numbers<br />
+02 - Telephone numbers<br />
 Språk: Java.
 
 Beskrivning: En lista över telefonnummer med olika “felaktiga” inskrivningar av låtsas
