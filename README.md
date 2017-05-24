@@ -1,6 +1,4 @@
 # Telephone-numbers
-
-02 - Telephone numbers<br />
 Språk: Java.
 
 Beskrivning: En lista över telefonnummer med olika “felaktiga” inskrivningar av låtsas
